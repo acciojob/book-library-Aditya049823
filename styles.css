@@ -4,6 +4,15 @@ body{
 }
 .book-library{
 	background-color:#ffffff;
+	box-sizing:border-box;
+	box-shadow:1px 1px 1px 1px gray;
+}
+h2{
+	text-align:left;
+	margin-left:5%;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:0px;
 }
 .book{
 	background-color:#f8f8f8;
@@ -26,4 +35,9 @@ body{
 }
 .author{
 	color:#777777;
+	text-align:left;
+	margin-left:5%;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding:0px;
 }
